@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/UI/Health_UI.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/MP2Level.umap",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/TestDummy.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/UI/GameOverScreen.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/HealthPack.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Collectible.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Pursuer_AIController.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/BP_Pursuer.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Blueprints/Collectible.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Blueprints/HealthPack.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Blueprints/Pursuer_AIController.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Blueprints/TestDummy.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Blueprints/EAIState.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Meshes/Material.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Meshes/Material_001.uasset",
+				"C:/Users/Jonathan/GitHub/CS415-MP2/MP2LevelDesign/Content/MP2/Meshes/medkit.uasset"
+			]
+		}
+	]
+}
